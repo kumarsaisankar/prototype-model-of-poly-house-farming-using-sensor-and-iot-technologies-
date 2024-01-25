@@ -1,2 +1,5 @@
-# prototype-model-of-poly-house-farming-using-sensor-and-iot-technologies-
+# prototype-model-of-poly-house-farming-using-sensor-and-iot-technologies
 This is a IEEE research paper published in 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT) 2019 at IIT - Kanpur, India
+ ## Abstract
+
+ In recent years yield from the agriculture fields was affected by the climate changes due to pollution and global warming etc. Another reason is that still our farmers are practicing conventional practices. On the other hand resources like land and water are diminishing These are the main challenges concentrated in this research by using green technologies i.e. poly house farming. Hence the work in this paper was focused on improving the yield from the agricultural domain by implementing end-end solution to control parameters such as temperature, humidity, soil moisture, CO2, light intensity, rainfall, tank level etc. This work is also concentrated on rain water harvesting. The data from the sensors was analyzed using cloud server and subscriptions are sent to the end users using GSM and Android app. It is observed that yield was increased with high quality and optimal resource utilization.
